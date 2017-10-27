@@ -1,0 +1,40 @@
+Terminator
+Open~/.bashrc in text editor and uncomment line:
+\#force_color_prompt=yes
+to be:
+force_color_prompt=yes
+save then execute source~/.bashrc
+--
+history
+https://askubuntu.com/questions/80371/bash-history-handling-with-multiple-terminals
+---
+Unlimited Scroll in Terminator
+https://askubuntu.com/questions/618464/unlimited-scroll-in-terminator
+
+*******************************************************************************************************
+
+chromium-browser
+
+*******************************************************************************************************
+
+MC
+
+select another editor
+select-editor
+
+*******************************************************************************************************
+
+franz
+
+*******************************************************************************************************
+
+change lang
+https://askubuntu.com/questions/68127/how-to-switch-language-keyboard-combination
+
+*******************************************************************************************************
+
+Aptitude - High level of abstraction
+apt-get apt-cache etc
+dpkg - Low level of abstraction
+
+*******************************************************************************************************

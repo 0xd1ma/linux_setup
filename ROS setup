@@ -1,0 +1,94 @@
+
+catkin build XXX --force-cmake -G"Eclipse CDT4 - Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_ECLIPSE_MAKE_ARGUMENTS=-j8
+
+вставляем работу с с++11
+
+подключаем debug из devel
+
+------------
+
+Ubuntu install of ROS Kinetic
+
+http://wiki.ros.org/kinetic/Installation/Ubuntu
+
+------------
+
+ROS Qt Creator Plug-in
+
+https://github.com/ros-industrial/ros_qtc_plugin/wiki/1.-How-to-Install-(Users)#section1.2
+
+------------
+
+Creating a workspace for catkin
+
+http://wiki.ros.org/catkin/Tutorials
+
+-------------
+
+disable firewall
+
+---------
+
+add to bash
+
+source /opt/qt57/bin/qt57-env.sh
+source /opt/ros/kinetic/setup.bash
+source ~/catkin_ws/devel/setup.bash
+
+export ROS_MASTER_URI=http://192.168.10.242:11311
+export ROS_HOSTNAME=192.168.10.200
+
+------
+
+add user to group dialout:
+
+sudo addgroup $USERNAME dialout
+
+------
+
+catkin tools
+http://catkin-tools.readthedocs.io/en/latest/index.html
+
+---------
+
+REALSENSE
+
+http://wiki.ros.org/librealsense
+http://wiki.ros.org/realsense_camera
+
+---------
+
+ECLIPSE
+
+*ТУТ МНОГО О ТОМ КАК ИНТЕГРИРОВАТЬ С РОС
+
+Auto Save before build:
+Window -> Preferences -> General -> Workspace. 
+There you can check "Save automatically before build" and "Build automatically."
+If that does not work,
+Preferences -> Run/Debug -> Launching -> "Save dirty editors before launching"
+
+use spaces instead of tabs:
+1.Click Window » Preferences
+2.Expand C/C++ » Code Style
+3.Click Formatter
+4.Click the New button to create a new profile, then OK to continue
+5.Click the Indentation tab
+6.Under General Settings, set Tab policy to: Spaces only
+7.Click OK ad nauseam to apply the changes.
+
+change hotkey
+
+Window > Preferences > General >  Keys
+
+
+
+
+
+---------
+
+
+
+
+
+

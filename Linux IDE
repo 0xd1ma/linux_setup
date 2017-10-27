@@ -1,0 +1,53 @@
+-----
+C++
+-----
+
+-----
+QTcreator
+https://wiki.qt.io/Install_Qt_5_on_Ubuntu
+http://help.ubuntu.ru/wiki/qtcreator
+
+sudo apt-get install build-essential libgl1-mesa-dev
+
+wget
+https://www.qt.io/download-open-source/#section-2
+
+
+chmod a+x qt...
+
+./qt...
+
+-----
+https://www.digitalocean.com/community/tutorials/java-ubuntu-apt-get-ru
+sudo apt-get install openjdk-8-jre
+
+eclipse
+
+https://losst.ru/ustanovka-eclipse-v-ubuntu-16-04
+http://www.blogs.digitalworlds.net/softwarenotes/?p=54
+
+-----
+
+geany
+
+-
+
+work with terminator:
+/config/geany/geany.conf
+
+terminal_cmd=x-terminal-emulator -e /bin/sh %c
+
+-
+
+https://habrahabr.ru/post/198468/
+
+-
+
+add to build and compile
+-std=c++11
+
+-----
+
+git
+gitk
+meld
