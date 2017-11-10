@@ -1,0 +1,9 @@
+sudo aptitude install ros-kinetic-gps-umd
+
+https://answers.ros.org/question/12663/gps-navigation/
+
+http://wiki.ros.org/gpsd_client/Tutorials/Getting%20Started%20with%20gpsd_client
+http://wiki.ros.org/gps_common
+
+
+
