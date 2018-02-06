@@ -52,6 +52,11 @@ sudo addgroup $USERNAME dialout
 catkin tools
 http://catkin-tools.readthedocs.io/en/latest/index.html
 
+see install
+
+catkin build
+then roscd works
+
 ---------
 
 REALSENSE
