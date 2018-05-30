@@ -95,6 +95,35 @@ https://stackoverflow.com/questions/13635079/enable-c11-in-eclipse-cdt-juno-kepl
 
 ---------
 
+CLION
+
+скачать jetbrains clion C++
+https://www.jetbrains.com/clion/
+
+jetbrains-clion.desktop
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CLion
+Icon=/home/robot/clion-2018.1.2/bin/clion.svg
+Exec=bash -i -c "/home/robot/clion-2018.1.2/bin/clion.sh" %f
+Comment=The Drive to Develop
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-clion
+
+make this file executable
+
+https://robotics.stackexchange.com/questions/12851/how-to-setup-clion-for-ros
+
+https://answers.ros.org/question/284786/setup-clion-with-ros/
+
+https://github.com/ethz-asl/programming_guidelines/wiki/CLion
+
+---------
+
+
 
 
 
