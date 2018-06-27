@@ -1,8 +1,16 @@
 *******************************************************************************************************
+notepadqq
+
+sudo add-apt-repository ppa:notepadqq-team/notepadqq
+sudo apt update
+sudo apt install notepadqq
+
+
+*******************************************************************************************************
 Terminator
 
 switch on colors:
-Open~/.bashrc in text editor and uncomment line:
+Open ~/.bashrc in text editor and uncomment line:
 \#force_color_prompt=yes
 to be:
 force_color_prompt=yes
@@ -10,6 +18,8 @@ save then execute source~/.bashrc
 --
 history:
 https://askubuntu.com/questions/80371/bash-history-handling-with-multiple-terminals
+
+Add export PROMPT_COMMAND='history -a' to your .bashrc file.
 ---
 Unlimited Scroll in Terminator:
 https://askubuntu.com/questions/618464/unlimited-scroll-in-terminator
@@ -24,7 +34,7 @@ select another editor
 select-editor
 
 *******************************************************************************************************
-franz
+
 
 *******************************************************************************************************
 change lang
