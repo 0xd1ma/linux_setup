@@ -1,3 +1,7 @@
+change hostname
+
+https://askubuntu.com/questions/9540/how-do-i-change-the-computer-name
+
 *******************************************************************************************************
 notepadqq
 
@@ -19,13 +23,13 @@ save then execute source~/.bashrc
 history:
 https://askubuntu.com/questions/80371/bash-history-handling-with-multiple-terminals
 
-Add export PROMPT_COMMAND='history -a' to your .bashrc file.
+Add export PROMPT_COMMAND='history -a; history -r' to your .bashrc file.
 ---
 Unlimited Scroll in Terminator:
 https://askubuntu.com/questions/618464/unlimited-scroll-in-terminator
 
 *******************************************************************************************************
-chromium-browser
+chrome
 
 *******************************************************************************************************
 MC

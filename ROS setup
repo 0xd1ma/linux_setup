@@ -26,6 +26,8 @@ http://wiki.ros.org/catkin/Tutorials
 
 disable firewall
 
+sudo ufw disable
+
 ---------
 
 add to bash
